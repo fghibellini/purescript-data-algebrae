@@ -4,8 +4,7 @@
   "description": "Reified operations for several common data structures.",
   "main": "index.js",
   "scripts": {
-    "pscid": "pscid",
-    "test": "pulp test"
+    "pscid": "pscid"
   },
   "repository": {
     "type": "git",

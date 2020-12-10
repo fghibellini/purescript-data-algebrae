@@ -14,8 +14,7 @@
     "purescript-arrays": "^5.0.0",
     "purescript-foreign-object": "^1.0.0",
     "purescript-ordered-collections": "^1.0.0",
-    "purescript-spec": "^3.0.0",
-    "purescript-spec-quickcheck": "https://github.com/i-am-tom/purescript-spec-quickcheck.git#master"
+    "purescript-spec": "^3.0.0"
   },
   "devDependencies": {},
   "repository": {
